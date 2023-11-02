@@ -4,7 +4,7 @@ This project is about how to predict risk of liver disease for a person, based o
 Based on the accurate model I designed a system which asks a person to enter the details of his/her blood test report. Then the system uses the most accurate model which is trained to predict, whether a person has risk of liver disease or not.
 
 Data collection:
-In this project, I collect a dataset from the Kaggle. In addition, the original dataset was collected from the northeast of Andhra Pradesh, India. This dataset consists of 583 liver patient’s data whereas 75.64% male patients and 24.36% are female patients. This dataset has contained 11 particular parameters whereas we choose 10 parameters for our further analysis and 1 parameter as a target class. Such as,
+In this project, I collect a dataset from the Kaggle. In addition, the original dataset was collected from the northeast of Andhra Pradesh, India. This dataset consists of 583 liver patient’s data whereas 75.64% male patients and 24.36% are female patients. This dataset has contained 11 particular parameters whereas we choose 10 parameters for our further analysis and 1 parameter as a target class. Such as
 Age of the patient,
 Gender of the Patients,
 Total Bilirubin,
